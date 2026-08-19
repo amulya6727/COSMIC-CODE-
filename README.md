@@ -1,4 +1,4 @@
-# COSMIC-CODE-
+# COSMIC-CODE
 # 🌌 Earth–Moon Lagrange Point Satellite Dynamics
 
 ## 🚀 Project Overview
