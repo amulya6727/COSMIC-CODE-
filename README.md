@@ -138,15 +138,10 @@ In my visualization, red represents the unstable points L1, L2 and L3, while gre
 
 ## 🧠 Assumptions
 My simulation makes some simplifying assumptions.
-# Assumption 1 — Circular orbits
-    I assumed the two primary bodies follow approximately circular orbits around their common centre of mass.
-    That's why I used the Circular Restricted Three-Body Problem.
-# Assumption 2 — Negligible satellite mass
-    I assumed the satellite has negligible mass compared with the two primary bodies, so its gravitational effect on them is     ignored.
-# Assumption 3 — Idealized system
-    I treated the system as an ideal two-body system and do not include effects such as other planets, solar perturbations,      atmospheric drag or radiation pressure.
-# Assumption 4 — Numerical simulation
-    The satellite trajectories are obtained numerically, so the results depend on the integration time, initial conditions       and numerical tolerances.
+#Assumption 1 — Circular orbits - I assumed the two primary bodies follow approximately circular orbits around their common centre of mass.That's why I used the Circular Restricted Three-Body Problem.
+Assumption 2 — Negligible satellite mass- I assumed the satellite has negligible mass compared with the two primary bodies, so its gravitational effect on them is ignored.
+Assumption 3 — Idealized system - I treated the system as an ideal two-body system and do not include effects such as other planets, solar perturbations, atmospheric drag or radiation pressure.
+Assumption 4 — Numerical simulation - The satellite trajectories are obtained numerically, so the results depend on the integration time, initial conditions and numerical tolerances.
 
 
 ## ⚠️ Limitations
