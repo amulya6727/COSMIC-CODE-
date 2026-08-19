@@ -131,25 +131,21 @@ For L4 and L5, the satellite can remain in a bounded region around the equilibri
 
 ---
 
-## 🎥 Demonstrate the Solution
-L1 - At L1, the satellite moves away from the equilibrium region, demonstrating its unstable nature.
-L2 - Similarly, at L2, the satellite does not remain near the equilibrium point.
-L3 - L3 also shows unstable behaviour under a small disturbance.
-L4 - At L4, however, the satellite remains within a bounded region around the point. This demonstrates the stable behaviour of L4 for the chosen mass ratio.
-L5 - L5 shows similar bounded behaviour.”
+## 🎥 Demonstration of the Solution
+At L1, the satellite moves away from the equilibrium region, demonstrating its unstable nature. Similarly, at L2, the satellite does not remain near the equilibrium point. L3 also shows unstable behaviour under a small disturbance. At L4, however, the satellite remains within a bounded region around the point. This demonstrates the stable behaviour of L4 for the chosen mass ratio. L5 shows similar bounded behaviour.
 In my visualization, red represents the unstable points L1, L2 and L3, while green represents the stable or bounded points L4 and L5. The yellow satellite and cyan trajectory make the motion easier to observe.
 
 
 ## 🧠 Assumptions
 My simulation makes some simplifying assumptions.
-Assumption 1 — Circular orbits
+# Assumption 1 — Circular orbits
     I assumed the two primary bodies follow approximately circular orbits around their common centre of mass.
     That's why I used the Circular Restricted Three-Body Problem.
-Assumption 2 — Negligible satellite mass
+# Assumption 2 — Negligible satellite mass
     I assumed the satellite has negligible mass compared with the two primary bodies, so its gravitational effect on them is     ignored.
-Assumption 3 — Idealized system
+# Assumption 3 — Idealized system
     I treated the system as an ideal two-body system and do not include effects such as other planets, solar perturbations,      atmospheric drag or radiation pressure.
-Assumption 4 — Numerical simulation
+# Assumption 4 — Numerical simulation
     The satellite trajectories are obtained numerically, so the results depend on the integration time, initial conditions       and numerical tolerances.
 
 
